@@ -5,3 +5,5 @@ file = "C:/Users/Benra/OneDrive/Documents/VideoGameSales/vgsales.csv"
 df = pd.read_csv(file)
 
 df
+
+shape = df.shape
